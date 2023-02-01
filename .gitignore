@@ -13,3 +13,4 @@
 *.a
 *.dSYM
 mkmf.log
+.DS_Store

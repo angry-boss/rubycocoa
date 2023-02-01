@@ -1,0 +1,19 @@
+-x
+objective-c
+-arch
+x86_64
+-fpascal-strings
+-Os
+-fno-common
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode8.2.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk
+-fasm-blocks
+-mmacosx-version-min=10.11
+-I/Users/mini/rubycocoa/sample/RubyAnywhere/build/Release/include
+-F/Users/mini/rubycocoa/sample/RubyAnywhere/build/Release
+-F/Library/Frameworks
+x86_64-apple-darwin15.6.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=16C58
+16C58
